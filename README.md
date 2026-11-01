@@ -1,3 +1,7 @@
-# RejonControl – panel testowy
+# RejonControl – publikacja panelu
 
-Panel testowy za hasłem (dane fikcyjne, zapis tylko w przeglądarce). Plik `index.html` jest zaszyfrowany; budowany automatycznie z prywatnego repo.
+- `/pilot/` – panel pilotażowy dla przewoźników (konta w chmurze). Adres główny przekierowuje tutaj.
+- `/wewn-test/` – wewnętrzny panel testowy za hasłem (dane fikcyjne), nie dla przewoźników.
+- `robots.txt` i znaczniki `noindex` – strona nie ma być indeksowana przez wyszukiwarki.
+
+Pliki są budowane automatycznie z prywatnego repo malybu9/rejoncontrol.
