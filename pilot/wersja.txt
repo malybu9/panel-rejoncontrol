@@ -1,2 +1,1 @@
-Panel z rejoncontrol 50955b9 (08b957e kafel, c092975 menu, 50955b9 przychód na bus)
-Opublikowano ponownie 2026-11-01 po nieudanym wdrożeniu Pages (uruchomione równolegle).
+631127b 2026-11-01T08:44:19Z
