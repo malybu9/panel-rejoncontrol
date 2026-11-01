@@ -1,6 +1,6 @@
 # RejonControl – publikacja panelu
 
-- `/pilot/` – panel pilotażowy dla przewoźników (konta w chmurze). Adres główny przekierowuje tutaj.
+- `/` – panel RejonControl dla przewoźników (konta w chmurze, za hasłem pilota). Adres `/pilot/` przekierowuje na główny.
 - `/wewn-test/` – wewnętrzny panel testowy za hasłem (dane fikcyjne), nie dla przewoźników.
 - `robots.txt` i znaczniki `noindex` – strona nie ma być indeksowana przez wyszukiwarki.
 
